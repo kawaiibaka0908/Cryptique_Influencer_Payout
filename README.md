@@ -68,3 +68,17 @@ See [`architecture/cryptiquearch(1).pdf`](./Architecture/cryptiquearch(1).pdf)
 
 ## Repository Structure
 
+##  Author
+
+**Srijan**  
+Associate Blockchain Developer @ Cryptique  
+[LinkedIn](https://www.linkedin.com/in/srijan-tiwari-215a3a286/)  
+
+
+---
+
+##  License
+
+This project is open-sourced under the MIT License.
+
+
