@@ -62,7 +62,7 @@ See [`architecture/cryptiquearch(1).pdf`](./Architecture/cryptiquearch(1).pdf)
 
 ##  Demo Video
 
- [Watch the contract test demo on Google Drive]([https://drive.google.com/your-link-here](https://drive.google.com/file/d/1woeYoDzJst90V2aViv6QI8EHrVMwsbBa/view?usp=sharing))
+ [Watch the contract test demo on Google Drive](https://drive.google.com/file/d/1woeYoDzJst90V2aViv6QI8EHrVMwsbBa/view?usp=sharing)
 
 ---
 
