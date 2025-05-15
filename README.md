@@ -29,7 +29,7 @@ The system enables businesses to:
 ##  Architecture
 
 ###  Flowchart
-![Campaign Flow](./Architecture/flowchart.jpg)
+![Campaign Flow](./Architecture/cryptiquearch.jpg)
 
 ###  Full System Design
 See [`architecture/cryptiquearch(1).pdf`](./Architecture/cryptiquearch(1).pdf)
